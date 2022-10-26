@@ -60,9 +60,9 @@ Plotting
 ROTEIRO QUANTITATIVO III
 
 
-Download dataset medida de fluorescência nuclear
+Download dataset medida de fluorescência nuclear:  https://data.broadinstitute.org/bbbc/BBBC013/BBBC013_v1_images_bmp.zip
 
-https://bbbc.broadinstitute.org/BBBC013
+https://bbbc.broadinstitute.org/BBBC013 (contem informações do dataset)
 
 Load Folder
 
